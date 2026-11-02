@@ -12,5 +12,4 @@ for i in num:
             current += 1
             length += 1
         long = max(long,length)
-
 print(long)
